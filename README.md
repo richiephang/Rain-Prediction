@@ -1,5 +1,5 @@
 # Rain-Prediction
-Fuzzy logic system for rain prediction 
+## Fuzzy logic system for rain prediction 
 
 This is a project about rain prediction fuzzy logic system using a Mamdani inference engine.
 
